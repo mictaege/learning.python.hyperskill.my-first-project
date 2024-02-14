@@ -10,5 +10,5 @@ print(f"Income: {total_earning}")
 staff_expenses = int(input("Staff expenses:"))
 other_expenses = int(input("Other expenses:"))
 
-net_income =  total_earning - staff_expenses - other_expenses
+net_income = total_earning - staff_expenses - other_expenses
 print(f"Net income: ${net_income}")
